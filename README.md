@@ -1,2 +1,2 @@
-# mi_primera_prueva
-intento numero 1
+# base_de_datos_primer_semestre
+proyecto de base de datos en desarrollo sobre la empresa aserca net
